@@ -1,5 +1,7 @@
 .vscode
 vars.json
+vars-prod.json
+vars-dev-east2-ohio.json
 
 # Logs
 logs
