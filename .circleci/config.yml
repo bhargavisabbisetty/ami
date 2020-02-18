@@ -30,4 +30,5 @@ jobs:
             -var "aws_secret_key=${AWS_SECRET_KEY}" \
             -var "subnet_id=${SUBNET_ID}" \
             -var "source_ami=${SOURCE_AMI}" \
+            -var "ami_users=${AMI_USERS}" \
             ubuntu-ami.json
