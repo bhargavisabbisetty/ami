@@ -1,5 +1,5 @@
 # CSYE 6225 - Spring 2020
-# Web Application
+# AMI - Packer
 
 ## Team
 
@@ -19,7 +19,7 @@
 2. Follow the steps in the link to install packer: 
 [Packer Installation Steps for Ubuntu](https://howtoprogram.xyz/2016/11/29/install-packer-ubuntu-16-04-1-lts-xenial-xerus/)
 
-For MacOS users do:
+* For MacOS users do:
 
 ```sh
 brew install packer
