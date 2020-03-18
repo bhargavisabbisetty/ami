@@ -51,7 +51,9 @@
                 "echo 'code agent..........'",
                 "sudo ./install auto",
                 "sudo service codedeploy-agent start",
-                "sudo service codedeploy-agent status"
+                "sudo service codedeploy-agent status",
+                "wget https://s3.amazonaws.com/amazoncloudwatch-agent/centos/amd64/latest/amazon-cloudwatch-agent.rpm",
+                "sudo rpm -U ./amazon-cloudwatch-agent.rpm"
             ]
         }
     ]
